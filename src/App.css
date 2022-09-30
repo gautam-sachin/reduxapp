@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  margin-top: 100px;
 }
 
 .App-logo {
@@ -35,4 +35,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+.maindiv{
+  width: 80%;
+  height: 80px;
+  background-color:  #80A142;
+  margin-left: 170px;
+}
+h3{
+  font-size: 60px;
+  color:aliceblue;
+  margin-left: 30px;
+}
+.Add{
+  margin-left: 1300px;
+  margin-top: -105px;
+}
+.table{
+  width: 80%;
+  margin-left: 170px;
+}
+.glyphicon{
+  color: rgb(20, 50, 77)  ;
+}
+.error{
+  color:red;
 }
